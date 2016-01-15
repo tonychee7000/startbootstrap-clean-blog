@@ -3,6 +3,12 @@ CACHE MANIFEST
 CACHE:
 /img/home-bg.jpg
 /img/about-bg.jpg
+/fonts/FontAwesome.otf
+/fonts/fontawesome-webfont.eot
+/fonts/fontawesome-webfont.svg
+/fonts/fontawesome-webfont.ttf
+/fonts/fontawesome-webfont.woff
+
 
 NETWORK:
 *
