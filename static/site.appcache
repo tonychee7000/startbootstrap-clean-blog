@@ -8,7 +8,12 @@ CACHE:
 /fonts/fontawesome-webfont.svg
 /fonts/fontawesome-webfont.ttf
 /fonts/fontawesome-webfont.woff
-
+/js/bootstrap.min.js
+/js/clean-blog.js
+/js/jquery.min.js
+/css/bootstrap.min.css
+/css/clean-blog.min.css
+/css/font-awesome.min.css
 
 NETWORK:
 *
