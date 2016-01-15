@@ -14,7 +14,6 @@ CACHE:
 /css/bootstrap.min.css
 /css/clean-blog.min.css
 /css/font-awesome.min.css
-
 NETWORK:
 /
 *
