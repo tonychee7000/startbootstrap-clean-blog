@@ -28,12 +28,9 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+                    <div>
                   {{ .Content }}
-                </div>
-            </div>
-        </div>
-    </article>
-    
+                    </div>
     {{if eq .Site.Params.useDuoShuo true}}
     <div class="comments">
         <!-- 多说评论框 start -->
@@ -54,4 +51,10 @@ var duoshuoQuery = {short_name:"kakawetofu"};
     <!-- 多说公共JS代码 end -->
     </div>
     {{end}}
+
+                </div>
+            </div>
+        </div>
+    </article>
+    
 {{ partial "footer.html" .}}
